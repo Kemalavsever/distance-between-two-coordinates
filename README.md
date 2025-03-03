@@ -1,0 +1,1 @@
+2 koordinat arası uzaklığı hesaplar
